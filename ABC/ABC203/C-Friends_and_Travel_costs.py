@@ -1,6 +1,6 @@
 """
 Created by Y.Azama 2024-07-20
-Ref: https://atcoder.jp/contests/abc201/tasks/abc203_c
+Ref: https://atcoder.jp/contests/abc203/tasks/abc203_c
 """
 N, K = map(int, input().split())
 friends = []

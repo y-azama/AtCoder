@@ -1,6 +1,6 @@
 """
 Created by Y.Azama 2024-07-20
-Ref: https://atcoder.jp/contests/abc201/tasks/abc204_c
+Ref: https://atcoder.jp/contests/abc204/tasks/abc204_c
 """
 from collections import deque
 

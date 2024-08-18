@@ -1,6 +1,6 @@
 """
 Created by Y.Azama 2024-07-20
-Ref: https://atcoder.jp/contests/abc201/tasks/abc203_a
+Ref: https://atcoder.jp/contests/abc203/tasks/abc203_a
 """
 a, b, c = map(int, input().split())
 if a == b:

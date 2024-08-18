@@ -1,6 +1,6 @@
 """
 Created by Y.Azama 2024-07-20
-Ref: https://atcoder.jp/contests/abc201/tasks/abc202_c
+Ref: https://atcoder.jp/contests/abc202/tasks/abc202_c
 """
 N = int(input())
 A = [int(n) for n in input().split()]
