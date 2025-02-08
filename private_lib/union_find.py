@@ -11,7 +11,7 @@ class UnionFind():
   def find_root(self, x):
     if self.parents[x] < 0: return x
 
-    self.parents[x] = self.find_root(x)
+    self.parents[x] = self.find_root(self.parents[x])
     return self.parents[x]
   
   def union(self, x, y):
