@@ -4,7 +4,7 @@
 # 10 -> n
 def base_n(num, base):
   pow = 0
-  while num > base**pow:
+  while num >= base**pow:
     pow += 1
   ans = []
   while pow > 0:
